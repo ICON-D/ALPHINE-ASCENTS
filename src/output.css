@@ -1349,6 +1349,7 @@ video {
 
 *{
   scroll-behavior: smooth;
+  margin: 1px;
 }
 
 .hover\:bg-blue-500:hover{
